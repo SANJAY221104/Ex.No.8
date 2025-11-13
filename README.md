@@ -1,4 +1,4 @@
-# Experiment 8: Reproducing an Image Using Prompts for Image Generation
+## Experiment 8: Reproducing an Image Using Prompts for Image Generation
 
 
 ## Date: 16/10/2025 
